@@ -41,6 +41,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.00_MMF_base_v5">
+    <configuration name="00_MMF_base_v4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mega_Movie_Fundraise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
