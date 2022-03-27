@@ -23,7 +23,7 @@ if age < MINIMUM_AGE:
     print("Sorry, you are too young for this movie")
 else:
     while age <= MAXIMUM_AGE:  # age must be between 12 and 110
-        age = number_checker("\nPLease enetr an integer between 12 and 110: ")
+        age = number_checker("\nPLease enter an integer between 12 and 110: ")
 
 print(f"Age = {age}")
 
